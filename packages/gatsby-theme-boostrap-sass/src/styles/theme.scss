@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Questrial&display=swap');
+
+// Set Fonts
+$font-family-base:          'Space Mono', serif !default;
+
+
+// COLORS
+$purple:                    #b063c5;
+$yellow:                    #f6f078;
+$lightgrey:                 lightgrey !default;
+$darkgrey:                  darkgrey !default;
+$black:                     black !default;
+$white:                     #f2f2f2;
+
+$blueDark:                  #1a2849;
+$blueLight:                 #e3e5f9;
+$pink:                      lighten(pink, 0.125);
+$primary:                   #505bda !default;
+
+$info:                        $purple;
+$warning:                     $yellow;
+
+
+$bg-light-blue:               lighten($primary, 35%) !default;
+$bg-dark-blue:              #1a2849 !default;
+
+// Typography
+$headings-font-family:        'PT Sans' !default;
+$headings-font-weight:        700;
+
+$border-radius:               .2rem;
+$border-radius-lg:            .25rem;
+$border-radius-sm:            .15rem;
+
+$text-shadow-dark:             -1px -1px 5px rgba(169,169,169,0.55);
+$box-shadow-top-dark:          1px -4px 12px -10px rgba(169,169,169,1);
+$linear-gradient-blue-green:   linear-gradient(0deg,rgba(255,255,255, 0.7)  0%, rgba(80,91,218,1) 100%);
+
+$background-patterned-1:       linear-gradient(135deg, $primary 21px, lighten($primary, 2%) 22px, lighten($primary, 2%) 24px, transparent 24px, transparent 67px, lighten($primary, 2%) 67px, lighten($primary, 2%) 69px, transparent 69px), linear-gradient(225deg, $primary 21px, lighten($primary, 2%) 22px, lighten($primary, 2%) 24px, transparent 24px, transparent 67px, lighten($primary, 2%) 67px, lighten($primary, 2%) 69px, transparent 69px)0 64px;
+
+

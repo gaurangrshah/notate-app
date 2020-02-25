@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "image": "https://source.unsplash.com/random?orientation=landscape",
+    "heading": "What We Do!",
+    "taglineA": "Need some help? Look no further than our.",
+    "taglineB": "README",
+    "featuredCards": [
+      {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure. Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure.", "linkLabel":"Learn More", "link": "/", "linkIcon": "fas fa-arrow-circle-right"},
+      {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure. Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure.", "linkLabel":"Learn More", "link": "/", "linkIcon": "fas fa-arrow-circle-right"},
+      {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure. Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure.", "linkLabel":"Learn More", "link": "/", "linkIcon": "fas fa-arrow-circle-right"}
+    ]
+  },
+  "main": {
+    "heading": "So You're Still Looking eh?",
+    "outro": "We'll we're sure you know by now, to check our README."
+  },
+  "cards": [
+    {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Service Info"},
+    {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Service Info"},
+    {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Service Info"},
+    {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Service Info"},
+    {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Service Info"},
+    {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Service Info"},
+    {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Service Info"},
+    {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Service Info"},
+    {"icon": "fas fa-square", "heading": "SERVICE NAME", "details": "Service Info"}
+  ]
+}

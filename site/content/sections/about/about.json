@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "image": "https://source.unsplash.com/random?orientation=landscape",
+    "heading": "There's really not much more..",
+    "tagline": "Like really, just check the README.",
+    "links": [
+      {"label": "Learn More", "link": "/"}
+    ]
+  },
+  "main": {
+    "sectionTitle": "WHO WE ARE",
+    "heading": "Did we mention we were #1?",
+    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque consectetur dignissimos quae voluptatum. Saepe aliquid odit illo delectus facilis."
+  },
+  "team": {
+    "sectionTitle": "MEET THE TEAM",
+    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque consectetur dignissimos quae voluptatum. Saepe aliquid odit illo delectus facilis.",
+    "body2": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque consectetur dignissimos quae voluptatum. Saepe aliquid odit illo delectus facilis."
+
+  },
+  "cards": [
+    {"image": "https://i.pravatar.cc/90", "heading": "PERSON NAME", "details": "PERSON TITLE"},
+    {"image": "https://i.pravatar.cc/90", "heading": "PERSON NAME", "details": "PERSON TITLE"},
+    {"image": "https://i.pravatar.cc/90", "heading": "PERSON NAME", "details": "PERSON TITLE"},
+    {"image": "https://i.pravatar.cc/90", "heading": "PERSON NAME", "details": "PERSON TITLE"}
+  ]
+}

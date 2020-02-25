@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "image": "https://source.unsplash.com/random?orientation=landscape",
+    "heading": "This is the Starter",
+    "tagline": "Get Building Today. Check out the README.",
+    "links": [
+      {"label": "Learn More", "link": "/"}
+    ]
+  },
+  "main": {
+    "heading": "Dedicated To Quality Service",
+    "body": "This page generated from a JSON config file. Helps keep the content seprate from the logic, and is easily accessed via graphql."
+  },
+  "cards": [
+    {"icon": "fas fa-square", "heading": "WHAT WE DO", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure. Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure."},
+    {"icon": "fas fa-square", "heading": "HOW WE DO IT", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure. Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure."},
+    {"icon": "fas fa-square", "heading": "WE'RE # 1", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure. Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ut iure."}
+  ],
+  "info": {
+    "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque consectetur dignissimos quae voluptatum. Saepe aliquid odit illo delectus facilis quidem. Provident explicabo dolore repellendus sequi odit consequatur, similique ea cum.",
+    "body2": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque consectetur dignissimos quae voluptatum. Saepe aliquid odit illo delectus facilis quidem. Provident explicabo dolore repellendus sequi odit consequatur, similique ea cum."
+  }
+}

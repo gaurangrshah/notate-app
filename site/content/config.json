@@ -1,0 +1,9 @@
+{
+  "theme": "default",
+  "pages": [
+    {"page": "home", "path": "/" },
+    {"page": "about", "path": "/about" },
+    {"page": "services", "path": "/services"},
+    {"page": "contact", "path": "/contact" }
+  ]
+}
